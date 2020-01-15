@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StudentPlannerApp</string>
+    <string name="main_name">SchoolTool</string>
+
+    <string name="course_title">Your Courses</string>
+    <string name="no_courses">No Courses Yet!</string>
+
+    <string name="view_calendar">View Calendar</string>
+    <string name="add_course">Add Course</string>
+    <string name="grade_calc">Grade Calculator</string>
+    <string name="home">Home</string>
+    <string name="enter_course">Enter Course Information: </string>
+
+    <string name="hint_course_name">Course Name</string>
+    <string name="hint_room_num">Room Number</string>
+    <string name="hint_day">Day</string>
+    <string name="hint_time">Time</string>
+    <string name="capital_add_course">ADD COURSE!</string>
+
+    <string name="room_text">Room # %s</string>
+    <string name="date_text">Date: %s</string>
+    <string name="time_text">Time: %s</string>
+    <string name="grade_text">%s%</string>
+
+    <string name="overall_average">Your overall average is: %.2f%%</string>
+    <string name="weight_hint">Weight (ex. 35)</string>
+    <string name="grade_hint">Grade (ex. 80)</string>
+    <string name="grade_error">Valid number grade is required.</string>
+    <string name="weight_error"><![CDATA[Valid number weight is required. ( percentage > 1 )]]></string>
+
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="summary_text">School-Tool enables students to keep track of their current courses and corresponding grades. Easily add and delete your courses. Add by pressing the add course button in the menu, and delete by swiping the course left or right. Use the grade calculator to calculate and save grades. </string>
+    <string name="summary_label">Summary</string>
+    <string name="version_no">Version No.: v1.1</string>
+    <string name="dev_names">Developer Names: Laura Gonzalez, Sean Casey | Version Updates by: Laura Gonzalez</string>
+    <string name="about_label">About</string>
+
+    <string name="toast_no_course">No course selected!</string>
+    <string name="toast_2_grades">At least 2 valid grade entries are required to Calculate Grade!</string>
+    <string name="toast_no_more_grades">Cannot add any more grades!</string>
+    <string name="over_weight"><![CDATA[Weight should add up to < 100]]></string>
+    <string name="error_invalid_grade">Grade should be less than or equal to 100%!</string>
+    <string name="error_course_name_empty">Course Name should not be empty!</string>
+    <string name="about">About</string>
+</resources>
